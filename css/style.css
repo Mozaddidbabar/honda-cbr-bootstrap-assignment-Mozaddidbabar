@@ -1,0 +1,8 @@
+.feature-img img {
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.user img{
+    padding: 20px;
+    margin: 0 auto;
+}
